@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "プロファイル 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\user1\\source\\repos\\CalculatorApp2\\bin\\Debug\\net8.0-windows\\CalculatorApp2.exe",
+      "workingDirectory": "C:\\Users\\user1\\source\\repos\\CalculatorApp2\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}
